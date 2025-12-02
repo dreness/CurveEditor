@@ -6,7 +6,7 @@
 //  Copyright © 2020 Vasilis Akoinoglou. All rights reserved.
 //
 
-import Cocoa
+import AppKit
 import SwiftUI
 
 @NSApplicationMain
